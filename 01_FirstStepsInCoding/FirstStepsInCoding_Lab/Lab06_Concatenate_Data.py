@@ -1,0 +1,5 @@
+firstNameInput = input()
+lastNameInput = input()
+ageInput = int(input())
+townInput = input()
+print(f'You are {firstNameInput} {lastNameInput}, a {ageInput}-years old person from {townInput}.')
